@@ -7,12 +7,12 @@
 Visit:
  <a>https://www.chemicalgenomicsoftb.com</a>
  
- The raw dataset that used in this study (47217 SMILES) is available there.</br></br>
- <h2>Generate The Features</h2></br>
+ The raw dataset that used in this study (47217 SMILES) is available there.
+ <h2>Generate The Features</h2>
  RUN: </br>
  feature_generation.py
- </br></br>
-<b> Training Models and Clustering algorithms</b></br>
+ 
+<h2> Training Models and Clustering algorithms</h2>
 RUN:</br>
 
 1. Variatinal Autoencoder.py
