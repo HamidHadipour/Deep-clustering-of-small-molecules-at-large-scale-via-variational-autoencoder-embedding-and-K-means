@@ -7,6 +7,11 @@ Getting Data
 Visit:
  <a>https://www.chemicalgenomicsoftb.com</a>
  
- The raw dataset that used in this dataset (47217 SMILES) is available there.
-<b> Training Models and Clustering algorithms</b>
+ The raw dataset that used in this study (47217 SMILES) is available there.</br>
+<b> Training Models and Clustering algorithms</b></br>
+RUN:</br>
+
+1. Variatinal Autoencoder.py
+2. Autoencoder.py
+3. BIRCH.py
 
