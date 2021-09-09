@@ -14,6 +14,9 @@ Visit:
 <h2> Data Pre-Processing</h2>
 RUN: </br>
 data preprocessing.py
+<h2> Choose The best Number of Clusters</h2>
+RUN: </br>
+choose the best k.py
 <h2> Training Models and Clustering algorithms</h2>
 RUN:</br>
 
@@ -21,3 +24,7 @@ RUN:</br>
 * Autoencoder.py
 * BIRCH.py
 
+<h2>Getting The Results</h2>
+RUN:</br>
+* k-means&internal clustering measurements
+* visualization
