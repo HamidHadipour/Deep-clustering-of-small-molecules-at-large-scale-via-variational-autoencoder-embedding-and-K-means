@@ -7,7 +7,11 @@ Getting Data
 Visit:
  <a>https://www.chemicalgenomicsoftb.com</a>
  
- The raw dataset that used in this study (47217 SMILES) is available there.</br>
+ The raw dataset that used in this study (47217 SMILES) is available there.</br></br>
+ <b>Generate The Features</b></br>
+ RUN </br>
+ feature_generation.py
+ </br></br>
 <b> Training Models and Clustering algorithms</b></br>
 RUN:</br>
 
