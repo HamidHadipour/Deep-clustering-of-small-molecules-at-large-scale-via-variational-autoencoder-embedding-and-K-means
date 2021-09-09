@@ -11,11 +11,13 @@ Visit:
  <h2>Generate The Features</h2>
  RUN: </br>
  feature_generation.py
- 
+<h2> Data Pre-Processing</h2>
+RUN: </br>
+data preprocessing.py
 <h2> Training Models and Clustering algorithms</h2>
 RUN:</br>
 
-1. Variatinal Autoencoder.py
-2. Autoencoder.py
-3. BIRCH.py
+* Variatinal Autoencoder.py
+* Autoencoder.py
+* BIRCH.py
 
