@@ -26,5 +26,5 @@ RUN:</br>
 
 <h2>Getting The Results</h2>
 RUN:</br>
-*. K-Means & Internal clustering evaluations.py</br>
-*. Visualize_results.py
+* K-Means & Internal clustering evaluations.py</br>
+* Visualize_results.py
