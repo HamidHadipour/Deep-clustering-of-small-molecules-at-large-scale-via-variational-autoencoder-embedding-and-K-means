@@ -1,4 +1,4 @@
-# Deep-clustering-of-large-scale-molecules-via-variational-autoencoder-embedding-and-k-means
+# Deep clustering of small molecules at large-scale via variational autoencoder embedding and K-means
 
 
 
